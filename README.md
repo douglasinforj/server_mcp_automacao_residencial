@@ -1,4 +1,4 @@
-# Proejto: Servidor MCP de Automação Residencial
+# Projeto: Servidor MCP de Automação Residencial
 
 ## Descrição 
 Projeto com foco no estudo de servidores MCP
